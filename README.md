@@ -23,6 +23,7 @@ My career spans foundational software engineering, enterprise Business Intellige
 * **Programming:** Transitioning from visual ETL to a programmatic Python stack (`pandas`, `numpy`, `matplotlib`).
 * **Academic Refresh:** Reviewing core Single/Multivariable Calculus and Statistical Inference.
 * **Future Goals:** Progressing toward Time-Series Forecasting and foundational Financial Mathematics.
+* **Track my real-time progress:** [View my 12-Month Quant Roadmap](./ROADMAP.md)
 
 ### 🌍 Connect
 * **Zindi:** [Shawn Maphoto](https://zindi.africa/users/EthutengTech)
